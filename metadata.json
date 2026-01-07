@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BétonExpert - Outil Dreux-Gorisse",
+  "description": "Une application professionnelle pour la formulation du béton selon la méthode Dreux-Gorisse, incluant le tracé des courbes granulométriques et le calcul automatique des dosages.",
+  "requestFramePermissions": []
+}
